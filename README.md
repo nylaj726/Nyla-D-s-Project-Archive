@@ -9,12 +9,6 @@ This repository is a space to:
 - Document progress in areas such as cloud computing, AI, cybersecurity, and more.  
 - Share lessons learned and resources with the community.  
 
-## 📂 Repository Structure
-
-- `/projects`: Contains detailed project folders with documentation, source code, and assets.  
-- `/resources`: A collection of helpful tools, guides, and notes.  
-- `/drafts`: Unfinished ideas or prototypes for potential future projects.  
-
 ## 🛠️ Technologies and Tools Used
 
 This repository includes projects leveraging a variety of technologies and tools, including:  
