@@ -1,6 +1,6 @@
-# Archive Project Repository
+# Project Archive Repository
 
-Welcome to the **Archive Project Repository**! This repository serves as a collection of past projects, ideas, and explorations in technology, community engagement, and education. It showcases a journey of growth and learning.
+Welcome to my **Project Archive Repository**! This repository serves as a collection of past projects, ideas, and explorations in technology, community engagement, and education. It showcases a journey of growth and learning.
 
 ## 📚 About This Archive
 
