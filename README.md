@@ -34,7 +34,7 @@ This repository includes projects leveraging a variety of technologies and tools
 
 - [Guess the Number Game](https://github.com/nylaj726/Nyla-D-s-Project-Archive/tree/main/Guess%20the%20Number%20Game):
   A simple web-based game where users guess a randomly generated number between 1 and 100. The game provides feedback on whether the guess is too high, too low, or correct, and tracks the number of attempts made to 
-  guess the correct number. It’s built using HTML, CSS, and JavaScript, making it a great introduction to basic web development concepts. [Live Server]
+  guess the correct number. It’s built using HTML, CSS, and JavaScript, making it a great introduction to basic web development concepts. [Live Server](http://127.0.0.1:5500/index.html)
 
 ## 🤝 Contributions
 
