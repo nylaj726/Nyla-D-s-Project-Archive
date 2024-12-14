@@ -35,7 +35,7 @@ While this archive is mostly for personal and educational purposes, contribution
 
 If you have questions or would like to discuss a project, reach out to me:  
 - **Email:** nylaj726@gmail.com  
-- **LinkedIn:** [Nyla J Dickerson](https://www.linkedin.com/in/nylajdickerson)  
+- **LinkedIn:** [Nyla J Dickerson](https://www.linkedin.com/in/nyla-d-832968233/)  
 - **Phone:** 240-416-1495  
 
 ---
