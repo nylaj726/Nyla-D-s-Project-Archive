@@ -24,7 +24,14 @@ This repository includes projects leveraging a variety of technologies and tools
 
 ## 🌟 Highlights
 
-- [Project Name 1](link-to-project-folder): Brief description of what the project does or its purpose.  
+- [Task Tracker](https://github.com/nylaj726/Nyla-D-s-Project-Archive/tree/main/Task%20Tracker):
+  The Interactive Task Tracker project is a simple web application designed to help users manage their daily tasks effectively. It allows users to:
+  - Add tasks they want to complete.
+  - Mark tasks as completed to track their progress.
+  - Delete tasks once they are no longer needed.
+  The app uses local storage to save tasks, ensuring that task data persists even if the page is refreshed. This makes it a lightweight, user-friendly productivity tool for personal task management.
+  [Live Server](http://127.0.0.1:5500/Task%20Tracker/index.html)
+
 - [Project Name 2](link-to-project-folder): Another brief description.  
 
 ## 🤝 Contributions
