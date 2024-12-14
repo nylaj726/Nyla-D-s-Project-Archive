@@ -31,6 +31,7 @@ This repository includes projects leveraging a variety of technologies and tools
   - Delete tasks once they are no longer needed.
   The app uses local storage to save tasks, ensuring that task data persists even if the page is refreshed. This makes it a lightweight, user-friendly productivity tool for personal task management.
   [Live Server](http://127.0.0.1:5500/Task%20Tracker/index.html)
+
 - [Project Name 2](link-to-project-folder): Another brief description.  
 
 ## 🤝 Contributions
