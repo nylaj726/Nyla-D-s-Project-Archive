@@ -1,7 +1,7 @@
 🐭 Nyla Dickerson's IT Project Archive
 Welcome to my central project hub! 👋 I am an Information Technology student at Towson University with a primary focus on System Administration, Network Security, and Enterprise Infrastructure.
 
-As I prepare for the Disney College Program (Fall '26), this repository serves as a living portfolio of my technical growth—transitioning from academic fundamentals to infrastructure projects inspired by large-scale enterprise environments and the Disney guest experience.
+As I am pursuing the Disney College Program (Fall '26), this repository serves as a living portfolio of my technical growth—transitioning from academic fundamentals to infrastructure projects inspired by large-scale enterprise environments and the Disney guest experience.
 
 🛠️ Tech Stack & Skills
 Languages: Python, SQL
